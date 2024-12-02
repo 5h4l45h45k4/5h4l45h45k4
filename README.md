@@ -13,3 +13,6 @@ Hit me up on discord : ```#5h4l45h45k4```
 ![THM-stats](https://tryhackme-badges.s3.amazonaws.com/5h4l45h45k4.png)
 
 ![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=5h4l45h45k4&style=midnight&gstats=show)
+
+![Github Stats](https://github.com/anuraghazra/github-readme-stats)
+![Root-me Stats](https://github.com/dz-root/Rootme-readme-stats)
